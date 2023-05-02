@@ -1,7 +1,7 @@
 # FMPT
 
-![icon](https://user-images.githubusercontent.com/60849611/235692765-77dee565-339d-450d-895f-9e4840cac0e7.png)
+![icon](https://user-images.githubusercontent.com/60849611/235697135-7234f8bc-2fd1-4c5a-916e-eebc162bf94d.png)
 
 My Little Phising Tool
 
-![Képernyőfelvétel (4420)](https://user-images.githubusercontent.com/60849611/235683335-9301468b-05a4-449d-9bdb-89d7db57f34d.png)
+![Képernyőfelvétel (4421)](https://user-images.githubusercontent.com/60849611/235696589-4b4f33d8-6b69-43ad-995b-3144c32c8c14.png)
