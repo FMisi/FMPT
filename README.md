@@ -4,4 +4,4 @@
 
 My Little Phising Tool
 
-![Képernyőfelvétel (4429)](https://user-images.githubusercontent.com/60849611/236415271-c4ff3954-9e16-4927-957a-0bece758ce14.png)
+![Képernyőfelvétel (4431)](https://user-images.githubusercontent.com/60849611/236448979-c623f2e7-3e1a-45dd-a710-98310fac2bb9.png)
